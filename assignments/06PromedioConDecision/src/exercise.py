@@ -1,6 +1,6 @@
 
 num=0
-divisor=0
+divisor=0 
 suma=0
 
 while True:
