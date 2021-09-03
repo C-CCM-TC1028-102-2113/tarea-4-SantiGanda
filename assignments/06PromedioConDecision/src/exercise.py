@@ -1,5 +1,4 @@
-def main():
-    #escribe tu código abajo de esta línea
+
 num=0
 divisor=0
 suma=0
@@ -14,6 +13,3 @@ while True:
 
 print(suma/divisor)
 
-    pass
-if __name__=='__main__':
-    main()
