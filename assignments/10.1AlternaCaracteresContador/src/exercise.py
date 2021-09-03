@@ -2,7 +2,7 @@ def main():
     #escribe tu código abajo de esta línea
 num=int(input())
 carct=1
-simb=1
+simb=1 
 a=1
 
 while a<=num:
