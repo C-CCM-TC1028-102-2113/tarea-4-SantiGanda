@@ -1,7 +1,15 @@
+num1=0
+num2=1
+num3=0
+index=0
+numfinal=int(input('Enter a number: '))
 
-def main():
-    #escribe tu código abajo de esta línea
-    pass
 
-if __name__=='__main__':
-    main()
+
+while index<numfinal:
+    num3=num1+num2
+    num1=num2
+    num2=num3
+    index=index+1
+
+print(num1)
