@@ -1,8 +1,8 @@
+num=int(input('Enter triangle height'))
+a=1
 
-def main():
-    #Escribe tu código debajo de esta línea
-    pass
+while a<=num:
+    spaces=num-a
+    print(' '*spaces+'*'*a)
+    a=a+1
 
-
-if __name__=='__main__':
-    main()
